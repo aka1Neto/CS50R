@@ -1,0 +1,17 @@
+Package: speedydata
+Title: Speedy Data
+Description: Package that speeds up the data analysis
+Version: 1.0
+Authors@R: person("Carlos", "Neto", email = "cefn.1184@gmail.com", role = c("aut", "cre", "cph"))
+License: MIT + file LICENSE
+Video:
+Imports:
+    ggplot2,
+    dplyr,
+    corrr,
+    testthat
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.3.2
+Encoding: UTF-8
