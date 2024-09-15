@@ -31,7 +31,7 @@ Do not copy and paste any of these files. Try to solve the problems yourself!
    - [Exploratory Data Analysis](week5/eda)
    - [Parked Out By The Lake](week5/parked)
 
-* **[Ttesting Programs](week6)**
+* **[Testing Programs](week6)**
    - [Can You Believe in Machines?](week6/believe)
    - [Measure Twice](week6/measure)
 
