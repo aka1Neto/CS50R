@@ -1,5 +1,5 @@
 # Speedy Data
-## Video Demo: <URL https://youtu.be/link_to_video>
+## Video Demo: <URL https://youtu.be/SV8GVgOC2b4>
 
 ## Description:
 Speedy Data is an R package designed to speed up the data analysis process by providing easy-to-use tools for data pre-processing, pattern detection, and visualization.

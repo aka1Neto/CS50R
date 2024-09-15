@@ -4,7 +4,7 @@ Description: Package that speeds up the data analysis
 Version: 1.0
 Authors@R: person("Carlos", "Neto", email = "cefn.1184@gmail.com", role = c("aut", "cre", "cph"))
 License: MIT + file LICENSE
-Video:
+Video: https://youtu.be/SV8GVgOC2b4
 Imports:
     ggplot2,
     dplyr,
