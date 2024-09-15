@@ -41,4 +41,4 @@ Do not copy and paste any of these files. Try to solve the problems yourself!
 
 ## Certificate
 
-![Certificate](CS50R_Certificate.png)
+![Certificate](CS50R.png)(https://certificates.cs50.io/209539d1-ee94-48a8-99c5-c6590ab980f3.pdf?size=letter)
